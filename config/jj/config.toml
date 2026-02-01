@@ -1,0 +1,11 @@
+#:schema https://docs.jj-vcs.dev/latest/config-schema.json
+
+[user]
+name = "Kamil Podbielski"
+email = "freeniac@gmail.com"
+
+[remote.origin]
+auto-track-bookmarks = true
+
+[ui]
+diff-formatter = ":git"
