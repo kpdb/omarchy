@@ -9,8 +9,8 @@ window {
 }
 
 label {
-  font-family: 'JetBrainsMono Nerd Font';
-  font-size: 11pt;
+  font-family: "Maple Mono";
+  font-size: 14pt;
 
   color: @label;
 }

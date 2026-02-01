@@ -4,6 +4,6 @@
 
 for pkg in "$@"; do
   if pacman -Q "$pkg" &>/dev/null; then
-    sudo pacman -Rns --noconfirm "$pkg"
+    sudo pacman -Rcns --noconfirm "$pkg"
   fi
 done
