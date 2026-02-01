@@ -4,7 +4,6 @@
 1password-beta
 1password-cli
 aether
-alacritty
 asdcontrol
 avahi
 bash-completion
@@ -85,9 +84,7 @@ noto-fonts-emoji
 noto-fonts-extra
 nss-mdns
 nvim
-obs-studio
 obsidian
-omarchy-chromium
 omarchy-nvim
 omarchy-walker
 opencode
@@ -110,13 +107,12 @@ satty
 sddm
 signal-desktop
 slurp
-spotify
 starship
 sushi
 swaybg
 swayosd
 system-config-printer
-tldr
+tealdeer
 tree-sitter-cli
 tobi-try
 ttf-cascadia-mono-nerd
